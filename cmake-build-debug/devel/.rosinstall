@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/bolunzhang/octopus/ros/src/sensors/cam_axes/cmake-build-debug/devel/setup.sh
